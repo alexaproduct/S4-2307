@@ -1,0 +1,15 @@
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/bin/Debug/net7.0/2307-GBC-S4-1
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/bin/Debug/net7.0/2307-GBC-S4-1.deps.json
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/bin/Debug/net7.0/2307-GBC-S4-1.runtimeconfig.json
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/bin/Debug/net7.0/2307-GBC-S4-1.dll
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/bin/Debug/net7.0/2307-GBC-S4-1.pdb
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.csproj.AssemblyReference.cache
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.AssemblyInfoInputs.cache
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.AssemblyInfo.cs
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.csproj.CoreCompileInputs.cache
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.dll
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/refint/2307-GBC-S4-1.dll
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.pdb
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/2307-GBC-S4-1.genruntimeconfig.cache
+/Users/alexa/Documents/GB-C-23-07-2023/GBC-2307-S4/2307-GBC-S4-1/obj/Debug/net7.0/ref/2307-GBC-S4-1.dll
